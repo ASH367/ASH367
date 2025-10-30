@@ -6,6 +6,9 @@
 </p>
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=ASH367&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ### 🧠 About Me
 - 🔭 Currently building **AI-integrated full-stack apps**
