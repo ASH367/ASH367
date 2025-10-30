@@ -63,6 +63,19 @@
 
 ---
 
+### 🧩 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/u/Ashish_Ubale/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Ashish_Ubale?theme=tokyonight&font=JetBrains%20Mono&ext=contest" />
+</p>
+
+---
+
+
 ### 🐍 My Contributions
 
 ![snake gif](https://github.com/ASH367/ASH367/blob/output/github-contribution-grid-snake.svg)
