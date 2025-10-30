@@ -25,9 +25,9 @@
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=react,nodejs,django" /><br/>
   <!-- Cloud & Databases -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,mongodb" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,mongodb,mysql" /><br/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=github,postman" />
 </p>
 
 ---
@@ -60,6 +60,12 @@
   <a href="https://linkedin.com/in/ashish-ubale"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ASH367"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+---
+
+### 🐍 My Contributions
+
+![snake gif](https://github.com/ASH367/ASH367/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
