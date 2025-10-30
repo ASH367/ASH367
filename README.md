@@ -23,11 +23,11 @@
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,java,js" /><br/>
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django" /><br/>
   <!-- Cloud & Databases -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,mongodb,docker" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,mongodb" /><br/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
 ---
