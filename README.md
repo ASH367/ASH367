@@ -21,13 +21,13 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css,ts" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,js" /><br/>
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,reactnative,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,tailwind" /><br/>
   <!-- Cloud & Databases -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,mongodb,mysql,postgres,docker" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,mongodb,docker" /><br/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -46,8 +46,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASH367&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH367&layout=compact&theme=radical" height="150" />
+  <img src="https://komarev.com/ghpvc/?username=ASH367&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ASH367?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/ASH367?affiliations=OWNER%2CCOLLABORATOR&style=social" />
 </p>
 
 ![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ASH367&theme=react-dark)
